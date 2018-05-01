@@ -1,0 +1,15 @@
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\CachingSolutionsSamples\bin\Debug\CachingSolutionsSamples.dll.config
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\CachingSolutionsSamples\bin\Debug\CachingSolutionsSamples.dll
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\CachingSolutionsSamples\bin\Debug\CachingSolutionsSamples.pdb
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\CachingSolutionsSamples\bin\Debug\EntityFramework.dll
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\CachingSolutionsSamples\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\CachingSolutionsSamples\bin\Debug\NorthwindLibrary.dll
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\CachingSolutionsSamples\bin\Debug\StackExchange.Redis.dll
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\CachingSolutionsSamples\bin\Debug\NorthwindLibrary.pdb
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\CachingSolutionsSamples\bin\Debug\EntityFramework.xml
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\CachingSolutionsSamples\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\CachingSolutionsSamples\bin\Debug\StackExchange.Redis.pdb
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\CachingSolutionsSamples\bin\Debug\StackExchange.Redis.xml
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\CachingSolutionsSamples\obj\Debug\CachingSolutionsSamples.csprojResolveAssemblyReference.cache
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\CachingSolutionsSamples\obj\Debug\CachingSolutionsSamples.dll
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\CachingSolutionsSamples\obj\Debug\CachingSolutionsSamples.pdb

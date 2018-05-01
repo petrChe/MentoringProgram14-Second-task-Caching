@@ -1,0 +1,10 @@
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\NorthwindLibrary\bin\Debug\NorthwindLibrary.dll.config
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\NorthwindLibrary\bin\Debug\NorthwindLibrary.dll
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\NorthwindLibrary\bin\Debug\NorthwindLibrary.pdb
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\NorthwindLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\NorthwindLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\NorthwindLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\NorthwindLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\NorthwindLibrary\obj\Debug\NorthwindLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\NorthwindLibrary\obj\Debug\NorthwindLibrary.dll
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\Application\NorthwindLibrary\obj\Debug\NorthwindLibrary.pdb

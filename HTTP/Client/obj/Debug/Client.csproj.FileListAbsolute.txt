@@ -1,0 +1,5 @@
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\HTTP\Client\bin\Debug\Client.dll
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\HTTP\Client\bin\Debug\Client.pdb
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\HTTP\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\HTTP\Client\obj\Debug\Client.dll
+C:\Users\Petr_Chebanenko\Documents\Visual Studio 2012\Projects\CachingSamples\HTTP\Client\obj\Debug\Client.pdb
